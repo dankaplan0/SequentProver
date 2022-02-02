@@ -77,3 +77,19 @@ explanation.
 - [x] change whether we accept contraction 
 - [x] add all rules for decomposition (branching rules)
 - [x] allow changing import file
+
+## Possible List of Further Projects (added by Dan 2022/02/01)
+- [ ] improve sequent output formatting (it should be possible to draw sequent trees in python)
+- [ ] fix quantifiers (maybe?)
+- [ ] allow for multiple choices (when decomposing non-invertible rules); alternatively,
+     limit amount of choices if combinatorial explosion is feared (perhaps as a variable?)
+
+## Natural Language Processing Arm of Project (added by Dan 2022/02/01)
+
+- [ ] Output sequents from natural language input
+- [ ] Feed sequents into sequent prover program
+
+## List of future projects (added by Dan 2022/02/01)
+
+- [ ] check NL arguments against database of good sequents?
+- [ ] machine learning for checking new sequents? (i.e. extrapolating database of atomic sequents)
